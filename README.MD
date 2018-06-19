@@ -9,4 +9,5 @@ Topics discussed
 
 This project is a part of React-Flux lessons in *Stackskills.com*
 
-https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg
+
+![Github file size](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)
